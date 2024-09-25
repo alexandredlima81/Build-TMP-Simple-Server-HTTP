@@ -52,14 +52,14 @@ Embora um servidor HTTP simples seja muito prático, ele não deve ser usado par
    cd nome-do-repositorio
 Certifique-se de que o diretório /files exista e contenha os arquivos que você deseja servir. Caso o diretório não exista, crie-o:
 
-bash
-Copy code
+ ```bash
 mkdir files
+ ```
 Execute o servidor:
 
-bash
-Copy code
+ ```bash
 python3 server.py
+ ```
 O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em http://localhost:8000.
 
 Logs
