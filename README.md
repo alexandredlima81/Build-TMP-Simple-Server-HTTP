@@ -49,12 +49,12 @@ Embora um servidor HTTP simples seja muito prático, ele não deve ser usado par
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
+   cd <nome-do-repositorio>
 Certifique-se de que o diretório /files exista e contenha os arquivos que você deseja servir. Caso o diretório não exista, crie-o:
 
  ```bash
-mkdir files
+mkdir /files
  ```
 Execute o servidor:
 
@@ -72,14 +72,8 @@ Para mudar a porta padrão, altere o valor da variável PORT no script.
 Encerrando o Servidor
 Para parar o servidor, pressione Ctrl+C no terminal.
 
-Licença
-Este projeto está licenciado sob a MIT License.
-
-markdown
-Copy code
-
 ### Instruções adicionais:
-- Substitua `"seuusuario"` e `"nome-do-repositorio"` pelos seus dados do GitHub.
+- Substitua `"<seu-usuario>"` e `"<nome-do-repositorio>"` pelos seus dados do GitHub.
 - Certifique-se de criar um arquivo de licença, se aplicável.
 
 </p>
