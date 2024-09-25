@@ -1,5 +1,6 @@
 # Servidor HTTP Simples com Registro de Logs
-
+<p align="justify">
+   
 Este projeto implementa um servidor HTTP simples utilizando os módulos `http.server` e `socketserver` do Python. 
 Ele serve arquivos de um diretório específico e registra todas as requisições recebidas tanto no terminal quanto em um arquivo de log.
 
@@ -81,3 +82,4 @@ Copy code
 - Substitua `"seuusuario"` e `"nome-do-repositorio"` pelos seus dados do GitHub.
 - Certifique-se de criar um arquivo de licença, se aplicável.
 
+</p>
