@@ -59,7 +59,7 @@ mkdir files
 Execute o servidor:
 
  ```bash
-python3 server.py
+python3 http-simple-server.py
  ```
 O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em http://localhost:8000.
 
