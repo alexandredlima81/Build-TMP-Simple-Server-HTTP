@@ -1,4 +1,4 @@
-# Servidor HTTP Simples com Registro de Logs
+# SERVIDOR TEMPORÁRIO HTTP SIMPLES COM REGISTRO DE LOGS
 <p align="justify">
    
 Este projeto implementa um servidor HTTP simples utilizando os módulos `http.server` e `socketserver` do Python. 
