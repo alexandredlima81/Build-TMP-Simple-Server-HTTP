@@ -92,8 +92,8 @@ O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em `htt
 
 ## Personalização
 
-Para alterar o diretório de onde os arquivos são servidos, modifique a linha `os.chdir` ('/files') no script para o caminho desejado.
-Para mudar a porta padrão, altere o valor da variável `PORT` no script.
+Para alterar o diretório de onde os arquivos são servidos, modifique a linha `os.chdir` ('/files') no script para o caminho desejado.\
+Para mudar a porta padrão, altere o valor da variável `PORT` no script.\
 Encerrando o Servidor, pressione `Ctrl+C` no terminal.
 
 ### Instruções adicionais:
