@@ -10,12 +10,16 @@ Um servidor HTTP simples, como este, pode ser muito útil em várias situações
 Aqui estão algumas aplicações práticas:
 
 **1. Servir Arquivos Estáticos** \
-Compartilhamento de Arquivos: Permite a transferência rápida de arquivos em uma rede local sem a necessidade de configurar um servidor mais complexo.
-Distribuição de Documentos: Para equipes que precisam acessar documentos ou recursos, um servidor HTTP pode ser uma maneira rápida de disponibilizá-los.
+   Compartilhamento de Arquivos: 
+   Permite a transferência rápida de arquivos em uma rede local sem a necessidade de configurar um servidor mais complexo.
+   Distribuição de Documentos: 
+   Para equipes que precisam acessar documentos ou recursos, um servidor HTTP pode ser uma maneira rápida de disponibilizá-los.
 
 **2. Teste de Aplicações Web** \
-Ambiente de Desenvolvimento Local: Permite testar rapidamente aplicações web em desenvolvimento sem a complexidade de configurar um servidor completo como Apache ou Nginx.
-Verificação de Recursos Estáticos: Verifique se os arquivos HTML, CSS ou JavaScript estão acessíveis e funcionando corretamente.
+   Ambiente de Desenvolvimento Local: 
+   Permite testar rapidamente aplicações web em desenvolvimento sem a complexidade de configurar um servidor completo como Apache ou Nginx.
+   Verificação de Recursos Estáticos:
+   Verifique se os arquivos HTML, CSS ou JavaScript estão acessíveis e funcionando corretamente.
 
 **3. Prototipagem Rápida** \
 Demonstrações: Ideal para criar protótipos rápidos de aplicações web ou serviços que podem ser demonstrados a partes interessadas sem um grande investimento de tempo.
