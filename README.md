@@ -10,8 +10,8 @@ Um servidor HTTP simples, como este, pode ser muito útil em várias situações
 Aqui estão algumas aplicações práticas:
 
 **1. Servir Arquivos Estáticos**\
-- **`Compartilhamento de Arquivos:`**\ 
-      Permite a transferência rápida de arquivos em uma rede local sem a necessidade de configurar um servidor mais complexo.\
+- **`Compartilhamento de Arquivos:`**\
+  Permite a transferência rápida de arquivos em uma rede local sem a necessidade de configurar um servidor mais complexo.\
 - **`Distribuição de Documentos:`**\
       Para equipes que precisam acessar documentos ou recursos, um servidor HTTP pode ser uma maneira rápida de disponibilizá-los.
 
