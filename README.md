@@ -83,16 +83,16 @@ Agora, ao rodar o script, você verá as requisições HTTP no terminal, enquant
    ```bash
    python3 http-simple-server.py
    ```
-O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em http://localhost:8000.
+O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em `http://localhost:8000`.
 
 ## Logs
 
 **`Terminal:`** Todas as requisições recebidas são exibidas em tempo real no terminal.\
-**`Arquivo:`** As requisições também são gravadas no arquivo de log localizado em /files/weblog.
+**`Arquivo:`** As requisições também são gravadas no arquivo de log localizado em `/files/weblog.`
 
 ## Personalização
 
-Para alterar o diretório de onde os arquivos são servidos, modifique a linha os.chdir('/files') no script para o caminho desejado.
+Para alterar o diretório de onde os arquivos são servidos, modifique a linha `os.chdir` ('/files') no script para o caminho desejado.
 Para mudar a porta padrão, altere o valor da variável PORT no script.
 Encerrando o Servidor, pressione Ctrl+C no terminal.
 
