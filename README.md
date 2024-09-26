@@ -1,7 +1,7 @@
 # SERVIDOR TEMPORÁRIO HTTP SIMPLES COM REGISTRO DE LOGS
 <p align="justify">
    
-Este projeto implementa um servidor HTTP simples utilizando os módulos `http.server` e `socketserver` do Python. 
+Este script implementa um servidor HTTP simples utilizando os módulos `http.server` e `socketserver` do Python. 
 Ele serve arquivos de um diretório específico e registra todas as requisições recebidas tanto no terminal quanto em um arquivo de log.
 
 ## Aplicação
@@ -28,23 +28,25 @@ Aqui estão algumas aplicações práticas:
    Você pode usar o servidor para simular respostas de APIs durante o desenvolvimento de clientes ou serviços.
 
 **4. Transferência de Dados Temporários** \
-Upload de Arquivos: Em um ambiente controlado, um servidor simples pode ser usado para enviar arquivos temporariamente sem a necessidade de soluções complexas.
-Backup de Dados: Rápido e fácil para criar backups de arquivos em uma rede local.
+   Upload de Arquivos: Em um ambiente controlado, um servidor simples pode ser usado para enviar arquivos temporariamente sem a necessidade de soluções complexas.
+   Backup de Dados: Rápido e fácil para criar backups de arquivos em uma rede local.
 
 **5. Monitoramento e Diagnóstico** \
-Logs de Atividade: Útil para monitorar e registrar atividades de rede, permitindo diagnósticos de problemas em tempo real.
-Testes de Conectividade: Ajuda a verificar se um servidor ou serviço pode ser acessado corretamente.
+   Logs de Atividade: \
+   Útil para monitorar e registrar atividades de rede, permitindo diagnósticos de problemas em tempo real.
+   Testes de Conectividade: \
+   Ajuda a verificar se um servidor ou serviço pode ser acessado corretamente.
 
 **6. Documentação e Recursos** \
-Wiki ou Documentação Interna: Um servidor simples pode ser utilizado para hospedar uma documentação interna leve ou uma wiki.
-Dashboards de Status: Pode servir páginas HTML simples que exibem o status de serviços ou outros recursos.
+   Wiki ou Documentação Interna: Um servidor simples pode ser utilizado para hospedar uma documentação interna leve ou uma wiki.
+   Dashboards de Status: Pode servir páginas HTML simples que exibem o status de serviços ou outros recursos.
 
 **7. Experimentos e Aprendizado** \
-Prática de DevOps: Ideal para iniciantes em DevOps que desejam entender como funciona a configuração de servidores e o manuseio de requisições HTTP.
-Desenvolvimento de Habilidades: Excelente oportunidade para aprender sobre redes e servidores de forma prática.
+   Prática de DevOps: Ideal para iniciantes em DevOps que desejam entender como funciona a configuração de servidores e o manuseio de requisições HTTP.
+   Desenvolvimento de Habilidades: Excelente oportunidade para aprender sobre redes e servidores de forma prática.
 
 **Considerações Finais** \
-Embora um servidor HTTP simples seja muito prático, ele não deve ser usado para aplicações em produção que exigem segurança robusta, gerenciamento de tráfego ou escalabilidade. Para essas situações, servidores web mais avançados (como Nginx ou Apache) são recomendados.
+   Embora um servidor HTTP simples seja muito prático, ele não deve ser usado para aplicações em produção que exigem segurança robusta, gerenciamento de tráfego ou escalabilidade. Para essas situações, servidores web mais avançados (como Nginx ou Apache) são recomendados.
 
 ## Funcionalidades
 
