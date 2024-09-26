@@ -16,15 +16,15 @@ Aqui estão algumas aplicações práticas:
       Para equipes que precisam acessar documentos ou recursos, um servidor HTTP pode ser uma maneira rápida de disponibilizá-los.
 
 **2.  Teste de Aplicações Web**\
-      Ambiente de Desenvolvimento Local:\
+      - Ambiente de Desenvolvimento Local:\
       Permite testar rapidamente aplicações web em desenvolvimento sem a complexidade de configurar um servidor completo como Apache ou Nginx.
-      Verificação de Recursos Estáticos:\
+      - Verificação de Recursos Estáticos:\
       Verifique se os arquivos HTML, CSS ou JavaScript estão acessíveis e funcionando corretamente.
 
 **3.  Prototipagem Rápida**
-      Demonstrações:
+      - Demonstrações:
       Ideal para criar protótipos rápidos de aplicações web ou serviços que podem ser demonstrados a partes interessadas sem um grande investimento de tempo.
-      Ambientes de Teste para APIs:
+      - Ambientes de Teste para APIs:
       Você pode usar o servidor para simular respostas de APIs durante o desenvolvimento de clientes ou serviços.
 
 **4.  Transferência de Dados Temporários**\
