@@ -28,7 +28,7 @@ Aqui estão algumas aplicações práticas:
       Você pode usar o servidor para simular respostas de APIs durante o desenvolvimento de clientes ou serviços.
 
 **4. Transferência de Dados Temporários**\
-      **`Upload de Arquivos:`**\
+- **`Upload de Arquivos:`**\
       Em um ambiente controlado, um servidor simples pode ser usado para enviar arquivos temporariamente sem a necessidade de soluções complexas.\
       **`Backup de Dados:`**\
       Rápido e fácil para criar backups de arquivos em uma rede local.
