@@ -58,16 +58,16 @@ Embora um servidor HTTP simples seja muito prático, ele não deve ser usado par
    ```bash
    git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
    cd <nome-do-repositorio>
-Certifique-se de que o diretório /files exista e contenha os arquivos que você deseja servir. Caso o diretório não exista, crie-o:
+2. Certifique-se de que o diretório /files exista e contenha os arquivos que você deseja servir. Caso o diretório não exista, crie-o:
 
- ```bash
-mkdir /files
- ```
-Execute o servidor:
+   ```bash
+   mkdir /files
+    ```
+3. Inicialize o servidor:
 
- ```bash
-python3 http-simple-server.py
- ```
+   ```bash
+   python3 http-simple-server.py
+   ```
 O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em http://localhost:8000.
 
 Logs
