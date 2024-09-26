@@ -85,14 +85,16 @@ Agora, ao rodar o script, você verá as requisições HTTP no terminal, enquant
    ```
 O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em http://localhost:8000.
 
-Logs
-Terminal: Todas as requisições recebidas são exibidas em tempo real no terminal.
-Arquivo: As requisições também são gravadas no arquivo de log localizado em /files/weblog.
-Personalização
+## Logs
+
+**`Terminal:`** Todas as requisições recebidas são exibidas em tempo real no terminal.
+**`Arquivo:`** As requisições também são gravadas no arquivo de log localizado em /files/weblog.
+
+## Personalização
+
 Para alterar o diretório de onde os arquivos são servidos, modifique a linha os.chdir('/files') no script para o caminho desejado.
 Para mudar a porta padrão, altere o valor da variável PORT no script.
-Encerrando o Servidor
-Para parar o servidor, pressione Ctrl+C no terminal.
+Encerrando o Servidor, pressione Ctrl+C no terminal.
 
 ### Instruções adicionais:
 - Substitua `"<seu-usuario>"` e `"<nome-do-repositorio>"` pelos seus dados do GitHub.
