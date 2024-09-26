@@ -87,7 +87,7 @@ O servidor irá iniciar na porta 8000 por padrão. Você pode acessá-lo em http
 
 ## Logs
 
-**`Terminal:`** Todas as requisições recebidas são exibidas em tempo real no terminal.
+**`Terminal:`** Todas as requisições recebidas são exibidas em tempo real no terminal.\
 **`Arquivo:`** As requisições também são gravadas no arquivo de log localizado em /files/weblog.
 
 ## Personalização
