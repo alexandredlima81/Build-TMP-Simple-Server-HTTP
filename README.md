@@ -45,9 +45,9 @@ Embora um servidor HTTP simples seja muito prático, ele não deve ser usado par
 - Serve arquivos estáticos do diretório `/files` (ou de qualquer outro diretório que você especificar).
 - Registra todas as requisições HTTP no terminal e em um arquivo de log (`/files/weblog`).
 - Permite o uso de **Cross-Origin Resource Sharing (CORS)** adicionando o cabeçalho `Access-Control-Allow-Origin: *` em todas as respostas.
-- Log em arquivo e terminal: A função "log_message" faz dois registros: um no arquivo "weblog" usando o "módulo logging", e outro diretamente no "terminal com print()". 
+- Log em arquivo e terminal: A função `log_message` faz dois registros: um no arquivo `weblog` usando o **módulo logging**, e outro diretamente no `terminal com print()`. 
 Isso garante que as ações das requisições sejam visíveis no terminal e gravadas no log.
-- Arquivo de log: O arquivo de log será salvo no caminho /files/weblog. Se o diretório /files não existir, você pode precisar criá-lo.
+- Arquivo de log: O arquivo de log será salvo no caminho `/files/weblog`. Se o diretório `/files` não existir, você pode precisar criá-lo.
 Agora, ao rodar o script, você verá as requisições HTTP no terminal, enquanto todas as mensagens também serão registradas no arquivo weblog.
 
 ## Requisitos
