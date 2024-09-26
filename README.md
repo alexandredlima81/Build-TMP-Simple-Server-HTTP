@@ -9,33 +9,35 @@ Ele serve arquivos de um diretório específico e registra todas as requisiçõe
 Um servidor HTTP simples, como este, pode ser muito útil em várias situações na área de infraestrutura. 
 Aqui estão algumas aplicações práticas:
 
-**1. Servir Arquivos Estáticos**\
-   Compartilhamento de Arquivos:\
-   Permite a transferência rápida de arquivos em uma rede local sem a necessidade de configurar um servidor mais complexo.
-   Distribuição de Documentos:\
-   Para equipes que precisam acessar documentos ou recursos, um servidor HTTP pode ser uma maneira rápida de disponibilizá-los.
+**1.  Servir Arquivos Estáticos**\
+      Compartilhamento de Arquivos:\
+      Permite a transferência rápida de arquivos em uma rede local sem a necessidade de configurar um servidor mais complexo.
+      Distribuição de Documentos:\
+      Para equipes que precisam acessar documentos ou recursos, um servidor HTTP pode ser uma maneira rápida de disponibilizá-los.
 
-**2. Teste de Aplicações Web**\
-   Ambiente de Desenvolvimento Local:\
-   Permite testar rapidamente aplicações web em desenvolvimento sem a complexidade de configurar um servidor completo como Apache ou Nginx.
-   Verificação de Recursos Estáticos:\
-   Verifique se os arquivos HTML, CSS ou JavaScript estão acessíveis e funcionando corretamente.
+**2.  Teste de Aplicações Web**\
+      Ambiente de Desenvolvimento Local:\
+      Permite testar rapidamente aplicações web em desenvolvimento sem a complexidade de configurar um servidor completo como Apache ou Nginx.
+      Verificação de Recursos Estáticos:\
+      Verifique se os arquivos HTML, CSS ou JavaScript estão acessíveis e funcionando corretamente.
 
-**3. Prototipagem Rápida**
-   Demonstrações:
-   Ideal para criar protótipos rápidos de aplicações web ou serviços que podem ser demonstrados a partes interessadas sem um grande investimento de tempo.
-   Ambientes de Teste para APIs:
-   Você pode usar o servidor para simular respostas de APIs durante o desenvolvimento de clientes ou serviços.
+**3.  Prototipagem Rápida**
+      Demonstrações:
+      Ideal para criar protótipos rápidos de aplicações web ou serviços que podem ser demonstrados a partes interessadas sem um grande investimento de tempo.
+      Ambientes de Teste para APIs:
+      Você pode usar o servidor para simular respostas de APIs durante o desenvolvimento de clientes ou serviços.
 
-**4. Transferência de Dados Temporários**
-   Upload de Arquivos: Em um ambiente controlado, um servidor simples pode ser usado para enviar arquivos temporariamente sem a necessidade de soluções complexas.
-   Backup de Dados: Rápido e fácil para criar backups de arquivos em uma rede local.
+**4.  Transferência de Dados Temporários**\
+      Upload de Arquivos:\
+      Em um ambiente controlado, um servidor simples pode ser usado para enviar arquivos temporariamente sem a necessidade de soluções complexas.
+      Backup de Dados:\
+      Rápido e fácil para criar backups de arquivos em uma rede local.
 
-**5. Monitoramento e Diagnóstico**
-   Logs de Atividade:
-   Útil para monitorar e registrar atividades de rede, permitindo diagnósticos de problemas em tempo real.
-   Testes de Conectividade:
-   Ajuda a verificar se um servidor ou serviço pode ser acessado corretamente.
+**5.  Monitoramento e Diagnóstico**\
+      Logs de Atividade:\
+      Útil para monitorar e registrar atividades de rede, permitindo diagnósticos de problemas em tempo real.
+      Testes de Conectividade:\
+      Ajuda a verificar se um servidor ou serviço pode ser acessado corretamente.
 
 **6. Documentação e Recursos**
    Wiki ou Documentação Interna: Um servidor simples pode ser utilizado para hospedar uma documentação interna leve ou uma wiki.
